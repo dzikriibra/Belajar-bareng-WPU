@@ -1,0 +1,6 @@
+Short Roadmap
+
+- Memahami Git dan Github
+- Memahami Webpack
+- Mengulang materi Javascript
+- Memahami React
