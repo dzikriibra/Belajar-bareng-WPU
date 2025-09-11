@@ -3,4 +3,7 @@ Short Roadmap
 - Memahami Git dan Github
 - Memahami Webpack
 - Mengulang materi Javascript
+  * ES6
+  * Function declaration & expression, Arrow Function
+  * Object & Class
 - Memahami React
