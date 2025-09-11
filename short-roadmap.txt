@@ -12,3 +12,4 @@ Short Roadmap
   * Template Literals
 
 - Memahami React
+  * Bagaimana react bekerja?
