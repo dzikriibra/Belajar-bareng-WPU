@@ -8,7 +8,8 @@ Short Roadmap
   * Object & Class
     - Protoype and Inheritance
   * Array & Array methods
-  * Ternary operator
+  * Destructuring
   * Template Literals
 
 - Memahami React
+  * Bagaimana react bekerja?
