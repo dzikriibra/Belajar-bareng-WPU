@@ -6,4 +6,7 @@ Short Roadmap
   * ES6
   * Function declaration & expression, Arrow Function
   * Object & Class
+    - Protoype and Inheritance
+  * Array & Array methods
+
 - Memahami React
