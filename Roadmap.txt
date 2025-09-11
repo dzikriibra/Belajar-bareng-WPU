@@ -1,0 +1,12 @@
+Rencana pembelajaran saya 1 - 2 tahun kedepan
+
+- Memahami HTML & CSS ✅
+- Memahami Fundamental Javascript
+- Memahami DOM Javascript
+- Memahami Version control system
+- Memahami Webpack
+- Memahami NPM 
+- Memahami Framework FE
+- Membuat Portofolio 
+- Membuat Study case 
+- Memberanikan diri untuk mencari experience ( Magang / Internship )
