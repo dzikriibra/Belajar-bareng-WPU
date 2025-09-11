@@ -8,5 +8,7 @@ Short Roadmap
   * Object & Class
     - Protoype and Inheritance
   * Array & Array methods
+  * Destructuring
+  * Template Literals
 
 - Memahami React
